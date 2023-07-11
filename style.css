@@ -251,4 +251,37 @@ body {
 .btn-deal {
   position: absolute;
   top: 240px;
-  left: 1000px;}
+  left: 1000px;
+}
+
+/* footer section style */
+.address-container {
+  background-color: black;
+  width: 100%;
+  height: 450px;
+  padding: 150px;
+  margin-bottom: 20px;
+}
+.address-title {
+  color: white;
+  font-size: 80px;
+  text-align: center;
+}
+
+.address-color {
+  color: rgb(251, 143, 161);
+}
+
+.address-description {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+
+.web-description {
+  color: gray;
+  font-size: 14px;
+  text-align: center;
+  padding: 10px;
+}
+
