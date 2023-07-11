@@ -171,6 +171,7 @@ body {
 /* instagram section styles */
 .instagram-container {
   width: 1440px;
+  margin: 100px auto;
 }
 
 
@@ -203,3 +204,51 @@ body {
   height: 400px;
   padding: 20px;
 }
+
+/* latest deal section styles */
+.latest-deal-container {
+  width: 1440px;
+  height: 450px;
+  border-radius: 8px;
+  background-image: url("Flower Asset/Rectangle09.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 100px auto;
+  position: relative;
+}
+
+.latest-deal-title {
+  width: 600px;
+  padding-top: 100px;
+  margin: 100px auto 0px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;  
+}
+
+.latest-deal-description {
+  color: rgba(39, 39, 39, 0.60);
+  width: 600px;
+  margin: 0px auto 0px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 40px;
+}
+
+
+.latest-deal-input {
+  position: absolute;
+  top: 150px;
+  left: 250px;
+  width: 700px;
+  height: 70px;
+  background-color: #FFF;
+  border-radius: 8px;
+  margin: 120px auto 40px;
+}
+
+.btn-deal {
+  position: absolute;
+  top: 240px;
+  left: 1000px;}
