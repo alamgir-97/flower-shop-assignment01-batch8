@@ -244,25 +244,28 @@ button.btn-primary {
   margin-top: 40px;
 }
 
+.latest-deal-input-content{
+  position: relative;
+}
 
 .latest-deal-input {
   position: absolute;
-  top: 150px;
+  top: 70px;
   left: 250px;
   width: 700px;
   height: 45px;
   background-color: #FFF;
   border-radius: 8px;
-  margin: 120px auto 40px;
 }
 textarea[placeholder="Enter your email here..."] {
   padding-top: 30px;
   padding-left: 25px;
 }
+
 .btn-deal {
   position: absolute;
-  top: 240px;
-  left: 1000px;
+  top: 45px;
+  margin-left: 580px;
 }
 
 /* footer section style */
